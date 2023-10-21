@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">User Input</string>
+    <string name="meal_cost">Meal Cost: $</string>
+    <string name="tip_percent">Tip Percent</string>
+    <string name="calculate_tip">Calculate Tip</string>
+    <string-array name="tip_amount">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+    </string-array>
+</resources>
